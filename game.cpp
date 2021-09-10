@@ -11,7 +11,7 @@ bool food=true;
 int foodX,foodY;
 short sDirection=RIGHT;
 extern bool gameOver;
-//abcd
+//added comments
 
 int posX[60]={20,20,20,20,20},posY[60]={20,19,18,17,16};
 
